@@ -9,9 +9,7 @@
     }
   ],
   "require": {
-    "jellyfish/config": "^1.0.0",
-    "jellyfish/pimple": "^1.0.0",
-    "monolog/monolog": "^2.0.0"
+    "psr/log": "^1.0.0"
   },
   "require-dev": {
     "codeception/codeception": "^4.0",
